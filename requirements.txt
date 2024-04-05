@@ -1,0 +1,4 @@
+ultralytics
+tensorflow
+sklearn
+PyQt5
