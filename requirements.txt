@@ -1,4 +1,4 @@
 ultralytics
 tensorflow
-sklearn
+scikit-learn
 PyQt5
